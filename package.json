@@ -1,0 +1,8 @@
+{
+  "name": "typescript-for-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/XeicuLy/typescript-for-javascript.git",
+  "author": "XeicuLy <106128913+XeicuLy@users.noreply.github.com>",
+  "license": "MIT"
+}
