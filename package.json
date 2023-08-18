@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/XeicuLy/typescript-for-javascript.git",
   "author": "XeicuLy <106128913+XeicuLy@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "volta": {
+    "node": "18.17.1",
+    "yarn": "1.22.19"
+  }
 }
